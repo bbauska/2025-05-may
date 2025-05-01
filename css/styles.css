@@ -1,5 +1,5 @@
 body {
-  font-family:OCR A Std, monospace, Helvetica;
+  font-family:Bradley Hand, cursive, OCR A Std, monospace, Helvetica;
 }
 table {
   table-layout:fixed;
@@ -74,22 +74,22 @@ ul {
     background-color:#c2e7e7;  /* light grayish cyan */
 }
 .intl-firefighters {
-    background-color:#ff3333;  /* vivid red */
+    background-color:#ffcdcd;  /* very pale red [pink tone] was ff3333 vivid red */
 }
 .starwars {
     background-color:#ff9933;  /* vivid orange */
 }
 .world-laughter {
-    background-color:#ff3399;  /* vivid pink */
+    background-color:#ff80bf;  /* very light pink was ff3399 vivid pink */
 }
 .natl-cinco-de-mayo {
     background-color:#3399ff;  /* vivid blue */
 }
 .natl-nurses {
-    background-color:#ff0000;  /* bright red */
+    background-color:#ffafaf;  /* pale red, (pink tone) was ff000 bright red */
 }
 .natl-teachers {
-    background-color:#9933ff;  /* vivid violet */
+    background-color:#e6cdff;  /* very pale violet, was 9933ff vivid violet */
 }
 .natl-rememberance {
     background-color:#ff8c1a;  /* vivid orange */
@@ -122,7 +122,7 @@ ul {
     background-color:#00ff00;  /* dark green */
 }
 .red-nose {
-    background-color:#cd00cd;  /* strong magenta */
+    background-color:#ffb9ff;  /* pale magenta was cd00cd strong magenta */
 }
 .world-goth {
     background-color:#ccff9a;  /* pale green */
