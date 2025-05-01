@@ -16,8 +16,16 @@ table {
   text-align:right;
 }
 
+p {
+  color:#fff;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
 h1 {
-  color:#FFF;
+  color:#fff;  /* white */
   font-size:200%;
   font-weight:700;
   letter-spacing:3px;
