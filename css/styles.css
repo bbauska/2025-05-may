@@ -70,10 +70,10 @@ ul {
 }
 
 .event {
-    border-radius:5px;
-    color:#10171c;  /* very dark (mostly black) blue */
-    padding:5px;
-    margin:5px 0;
+  border-radius:5px;
+  color:#10171c;  /* very dark (mostly black) blue */
+  padding:5px;
+  margin:5px 0;
 }
 <!-- added 5-13-25 7:06pm -->
 .container {
