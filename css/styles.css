@@ -105,6 +105,9 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
+.mayDay {
+  background-color:#e893e8;  /* very soft magenta */
+}
 .may-day {
   background-color:#e893e8;  /* very soft magenta */
 }
@@ -188,6 +191,9 @@ a:hover::after {
 }
 .world-ms {
     background-color:#e8e993;  /* very soft yellow */
+}
+.world-no-tobacco {
+    background-color:#afffad;  /* pale lime green */
 }
 .github {
   background-color:#ece850;  /* soft yellow */
