@@ -1,5 +1,4 @@
-<!-- css/styles.css of 2025-may.bauska.org -->
-<!-- was: font-family:'Bradley Hand', cursive, 'OCR A Std', monospace, Helvetica; -->
+/* css/styles.css of 2025-05-may making 2025-may.bauska.org */
 body {
   font-family:Helvetica, 'Bradley Hand'; cursive, 'OCR A Std', monospace;
 }
@@ -67,7 +66,7 @@ ul {
   padding:5px;
   margin:5px 0;
 }
-<!-- added 5-13-25 7:06pm -->
+/* added 5-13-25 7:06pm */
 .container {
   background-color: #fff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
@@ -104,7 +103,7 @@ a:hover::after {
   width: 88%;
 }
 
-<!-- World, National & International Days -->
+/* World, National & International Days */
 .mayDay {
   background-color:#e893e8;  /* very soft magenta */
 }
